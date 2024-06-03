@@ -1,77 +1,31 @@
 {
+  "gitSyncId": "665d5fdd8f1846556dffc82d_700e534b-1ac0-4397-a9c8-0cff12258f12",
   "unpublishedPage": {
-    "name": "Employees",
-    "slug": "employees",
     "layouts": [
       {
-        "viewMode": false,
         "dsl": {
-          "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1176,
-          "snapColumns": 64,
-          "detachFromLayout": true,
-          "widgetId": "0",
-          "topRow": 0,
           "bottomRow": 950,
-          "containerStyle": "none",
-          "snapRows": 125,
-          "parentRowSpace": 1,
-          "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 89,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
           "minHeight": 970,
           "parentColumnSpace": 1,
-          "dynamicBindingPathList": [],
-          "leftColumn": 0
-        },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "Employees_employee_assignments",
-              "name": "employee_assignments",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "employeeList.selectedItem.first_name",
-                "(assetsAssigned.pageNo - 1) * assetsAssigned.pageSize"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Employees_getAssets",
-              "name": "getAssets",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "(Table2.pageNo - 1) * Table2.pageSize"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
-              "id": "Employees_getEmployees",
-              "name": "getEmployees",
-              "confirmBeforeExecute": false,
-              "pluginType": "DB",
-              "jsonPathKeys": [
-                "(employeeList.pageNo - 1) * employeeList.pageSize"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
-        "layoutOnLoadActionErrors": [],
-        "validOnPageLoadActions": true,
-        "id": "Employees",
-        "deleted": false,
-        "policies": [],
-        "userPermissions": []
+          "parentRowSpace": 1,
+          "rightColumn": 1176,
+          "snapColumns": 64,
+          "snapRows": 125,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 89,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
       }
     ],
-    "userPermissions": [],
-    "policies": [],
-    "isHidden": false
-  },
-  "deleted": false,
-  "gitSyncId": "665d5fdd8f1846556dffc82d_700e534b-1ac0-4397-a9c8-0cff12258f12"
+    "name": "Employees",
+    "slug": "employees"
+  }
 }
