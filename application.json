@@ -1,0 +1,69 @@
+{
+  "pages": [
+    {
+      "id": "Car servicing",
+      "isDefault": false
+    },
+    {
+      "id": "Car showroom",
+      "isDefault": false
+    },
+    {
+      "id": "Business dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Send Messages",
+      "isDefault": false
+    },
+    {
+      "id": "Customer Data",
+      "isDefault": false
+    },
+    {
+      "id": "Dashboard2",
+      "isDefault": false
+    },
+    {
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Assets",
+      "isDefault": false
+    },
+    {
+      "id": "Employees",
+      "isDefault": false
+    },
+    {
+      "id": "Investors",
+      "isDefault": true
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {}
+  },
+  "color": "#ECECEC",
+  "icon": "rupee",
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

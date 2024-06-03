@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Dashboard",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Dashboard_JSObject1",
+  "deleted": false,
+  "gitSyncId": "665d5fdd8f1846556dffc82d_55706f43-92e6-48c7-b036-fe8e3dce30af"
+}
