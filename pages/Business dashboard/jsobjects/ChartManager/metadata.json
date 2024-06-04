@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "665d5fdd8f1846556dffc82d_41f96e60-ecfc-497f-9c59-ee11ba2d5205",
+  "id": "Business dashboard_ChartManager",
   "unpublishedCollection": {
     "name": "ChartManager",
     "pageId": "Business dashboard",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "Business dashboard_ChartManager",
-  "deleted": false,
-  "gitSyncId": "665d5fdd8f1846556dffc82d_41f96e60-ecfc-497f-9c59-ee11ba2d5205"
+    "variables": []
+  }
 }

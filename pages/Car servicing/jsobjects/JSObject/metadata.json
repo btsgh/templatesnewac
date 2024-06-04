@@ -1,11 +1,11 @@
 {
+  "gitSyncId": "665d5fdd8f1846556dffc82d_c2af7f79-b7ad-4d4e-aa20-ba1dfa231a8f",
+  "id": "Car servicing_JSObject",
   "unpublishedCollection": {
     "name": "JSObject",
     "pageId": "Car servicing",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
     "variables": [
       {
         "name": "myVar1",
@@ -15,10 +15,6 @@
         "name": "myVar2",
         "value": "{}"
       }
-    ],
-    "userPermissions": []
-  },
-  "id": "Car servicing_JSObject",
-  "deleted": false,
-  "gitSyncId": "665d5fdd8f1846556dffc82d_c2af7f79-b7ad-4d4e-aa20-ba1dfa231a8f"
+    ]
+  }
 }
